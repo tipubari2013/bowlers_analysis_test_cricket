@@ -1,6 +1,6 @@
 # Data Analysis with Python
-### Bowlers analysis of test cricket
-###### This is a general exercise
+## Bowlers analysis of test cricket
+### "This is a general exercise"
 #### Importing required libraries
 #### Changing the directory / Locating file in the directory
 #### Reading the excel file
