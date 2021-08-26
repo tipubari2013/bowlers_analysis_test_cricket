@@ -22,4 +22,4 @@ Number of Australian bowlers who are present in this dataset\
 Finding if any Bangladeshi player present in this dataset\
 The player who had the lowest economy rate\
 The player who had the lowest strike rate\
-The player who had the lowest bowling average\
+The player who had the lowest bowling average
